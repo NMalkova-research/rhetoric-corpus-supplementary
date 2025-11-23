@@ -1,0 +1,13 @@
+# Content Analysis of Editorial Guidelines (N=20)
+
+This document presents the results of the content analysis of author guidelines from 10 English-language and 10 Russian-language journals.
+
+## Coding Results
+
+| Criterion | English Journals (N=10) | Russian Journals (N=10) | Chi-square (χ²) | p-value |
+|---|---|---|---|---|
+| Explicit requirements for DMs | 0 | 0 | 0.0 | >0.05 |
+| Prohibitions on term repetition | 1 ("avoid monotony") | 3 ("avoid tautology") | 1.2 | >0.05 |
+| General style recommendations | 8 ("clarity", "conciseness") | 7 ("academic style", "logic") | 0.2 | >0.05 |
+
+**Conclusion:** The analysis revealed no direct normative pressure regarding the frequency of discourse markers, suggesting that the observed patterns are rooted in rhetorical conventions rather than explicit editorial mandates.

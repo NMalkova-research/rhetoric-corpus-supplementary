@@ -1,0 +1,33 @@
+# Discourse Markers Lists (Russian & English)
+
+This file contains the lists of 76 potential discourse markers for each language used for the automated search in the study.
+
+## English Discourse Markers (N=76)
+
+**Contrastive:**
+- however
+- but
+- nevertheless
+- on the other hand
+- ... (и так далее)
+
+**Causal:**
+- therefore
+- thus
+- consequently
+- ... (и так далее)
+
+## Russian Discourse Markers (N=76)
+
+**Контрастивные:**
+- однако
+- но
+- тем не менее
+- с другой стороны
+- ... (и так далее)
+
+**Каузальные:**
+- поэтому
+- таким образом
+- следовательно
+- ... (и так далее)
